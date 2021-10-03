@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo dark theme landing page
 
-! [Visualização do design para o desafio da página de destino de tema escuro Fylo] (./design/desktop-preview.jpg)
+![Visualização do design para o desafio da página de destino de tema escuro Fylo](./design/desktop-preview.jpg)
 
 ## Receber! 👋
 
