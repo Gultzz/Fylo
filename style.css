@@ -321,6 +321,22 @@ header{
 .qfP1{
     max-width: 400px;
 }
+.qfp2{
+    text-align: center;
+    margin-top: 20px;
+}
+.qfp3{
+    text-align: center;
+    margin-top: 20px;
+}
+.qfp4{
+    text-align: center;
+    margin-top: 20px;
+}
+.qfp5{
+    text-align: center;
+    margin-top: 20px;
+}
 .s6Full{
     display: flex;
     flex-direction: column;
@@ -335,6 +351,23 @@ header{
 .link2:hover {
     font-weight: 700;
 }
+.redes{
+    padding: 10px 10px 7px 10px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 0 10px;
+    transition: 0.2s;
+}
+.redes:hover{
+    transition: 0.2s;
+    background-color: rgba(101, 226, 218, 0.2);
+}
+.qfp5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 /*TODO     Footer */
 footer{
@@ -344,6 +377,11 @@ footer{
 }
 
 @media screen and (max-width: 750px) {
+    .quaseFooter{
+        justify-content: flex-start;
+        text-align: left;
+        flex-direction: column;
+    }
     .txtS1{
         margin: 20px 10px 0 10px;
     }
